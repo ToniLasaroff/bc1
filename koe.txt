@@ -1,5 +1,5 @@
-master:eka rivi
-toka rivi
+hotfix2 uusi:eka rivi
+toka rivi hotfix2
 kolmas rivi
 neljäs rivi
 viides rivi
