@@ -1,4 +1,4 @@
-hotfix2:eka rivi
+master:eka rivi
 toka rivi
 kolmas rivi
 neljäs rivi
