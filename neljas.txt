@@ -1,1 +1,2 @@
-Tämä luotiin hotfix1 branchissä
+Tämä luotiin hotfix1 branchissä.
+Muokattiin uudestaan.
